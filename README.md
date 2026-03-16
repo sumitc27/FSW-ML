@@ -141,7 +141,4 @@ This project demonstrates how **physics-guided machine learning techniques** can
 
 ---
 
-## Author
 
-Mechanical Engineering Research Project
-Advanced Welding Course
